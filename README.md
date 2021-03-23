@@ -30,7 +30,8 @@ i wykonaj poniższe operacje:
 Przepisz ZAD 3, aby generowało identyczny wynik, ale wykorzystując procedury dodawania, odejmowania, mnożenia i dzielenia. Zamiast wykorzystywać zmiennych do operacji arytmetycznych proszę korzystać ze stosu.
 
 * Można wyłącznie przetrzymywać argumenty a i b w zmiennych.
-## ZAD 5
+
+### ZAD 5
 
 •Napisz program do liczenia silni, liczby jednocyfrowej* wprowadzanej z klawiatury, wynik wyświetlaj w systemie dziesiętnym za pomocą znaków ASCII.
 * Stosuj procedury
