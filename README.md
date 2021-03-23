@@ -10,7 +10,7 @@ Napisać program, który:
 ### ZAD 2
 Zmodyfikuj swój program z poprzednich zajęć, tak aby, po wprowadzeniu jednego znaku ASCII z klawiatury program wyświetlił na ekranie dla wartości (znaku ASCII) większej od 90 -nazwisko, a dla mniejszej wartości znaku ASCII - imię.
 
-### 3b
+### ZAD 3b
 Napisać program, który sprawdza czy w imieniu lub nazwisku znajdują się niedozwolone znaki i wyświetla odpowiedni komunikat
 
 ### ZAD 3
